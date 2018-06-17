@@ -1,0 +1,144 @@
+.login {
+	margin: 44px 0px;
+	position: relative;
+}
+
+.pace-top {
+	background-color: white;
+}
+
+.container-fluid1 {
+	background-color: #20b8cc;
+}
+
+.navbar.navbar-default {
+	background: black;
+}
+
+.navbar-brand1 {
+	margin-right: 10px;
+	padding: 12px 20px;
+	height: 54px;
+	width: 100;
+	font-weight: 100;
+	font-size: 12px;
+	line-height: 55px;
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+.page-header1 {
+	font-size: 26px;
+	margin: 60px 0px 30px;
+	padding: 0;
+	border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar.navbar-default {
+	background: black;
+}
+
+.formStart {
+	margin-top: 20px;
+}
+
+.content {
+	margin-left: 146px;
+	padding: 14px 25px;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.innerPanel {
+	border-style: groove;
+	border-width: 2px;
+	margin-left: 120px;
+	margin-right: 120px;
+}
+
+.panelButton {
+	padding: 1px;
+	10
+	px;
+}
+
+a:hover, .nav>li>a:focus, .nav>li>a:hover {
+	color: white;
+	text-decoration: underline;
+}
+
+#errorDiv {
+	position: left;
+}
+
+.claimPanel {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.tasksDiv {
+	margin: 50px 70px 70px 70px;
+}
+
+#profilePanel {
+	margin-left: 160px;
+	margin-right: 160px;
+	margin-top: 50px;
+}
+
+#calendarPanel {
+	margin-left: 100px;
+	margin-right: 30px;
+	margin-top: 60px;
+}
+
+#leavePanel {
+	margin-left: 160px;
+	margin-right: 160px;
+	margin-top: 100px;
+}
+
+#sidebar {
+	background: white;
+	margin-bottom: -400px;
+	position:fixed;
+}
+
+#leftNavList{
+	margin-top: 100px;
+	color:green;
+	
+}
+
+
+.sidebar .nav>li>a {
+    padding: 8px 20px;
+    line-height: 20px;
+    color: #795548;
+}
+
+#memberDetailPanel{
+	margin-left: 55px;
+	margin-right: 180;
+	margin-bottom: -300px;
+	
+}
+
+
+
+#myteam{
+	margin-top: 50px;
+}
+
+
+
+
+
+
