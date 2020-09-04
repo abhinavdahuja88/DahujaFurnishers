@@ -34,7 +34,7 @@
     "kafka-node": "^1.6.2",
     "lodash": "^4.17.4",
     "mkdirp": "^0.5.1",
-    "mongodb": "^2.2.24",
+    "mongodb": "^3.1.13",
     "mongoose": "^4.8.5",
     "npm": "^5.8.0",
     "oauth2client": "^1.0.0",
